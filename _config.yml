@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'https://qualitativedatarepository.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: teaching-with-qual-data
+baseurl: /teaching-with-qual-data
 
 # Title of the Site
 title: Teaching with Qualitative Data
