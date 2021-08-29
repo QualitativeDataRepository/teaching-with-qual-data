@@ -45,10 +45,11 @@ author-name: QualitativeDataRepository
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-project-about: The "Teaching with Qualitative Data" project is a cross-disciplinary pilot initiative examines the pedagogical practice, and effects on learning, of using shared research data to teach qualitative analytic methods at the graduate level. Aiming for cross-field impact on qualitative methods instruction, the  project activities include observing classroom instruction, surveying students, interviewing instructors and students, and assessing course materials. 
+project-about: The "Teaching with Qualitative Data" project is a cross-disciplinary pilot initiative examines the pedagogical practice, and effects on learning, of using shared research data to teach qualitative analytic methods at the graduate level. Aiming for cross-field impact on qualitative methods instruction, the  project activities include observing classroom instruction, surveying students, interviewing instructors and students, and assessing course materials.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://qdr.syr.edu
 
+site-about: This site is maintained by the Qualitative Data Repository (QDR). QDR curates, stores, preserves, publishes, and enables the download of digital data generated through qualitative and multi-method research in the social sciences. s
 # SASS
 sass:
   sass_dir: _sass
