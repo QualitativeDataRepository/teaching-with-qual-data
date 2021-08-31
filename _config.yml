@@ -4,7 +4,7 @@ markdown: kramdown
 # URL of the Site
 url: 'https://teachwithqualdata.org/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl:
 
 # Title of the Site
 title: Teaching with Qualitative Data
@@ -18,7 +18,7 @@ site-keywords: academic, qualitative research, data
 favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://live.staticflickr.com/4119/4781410628_3952b01acf_k_d.jpg
+heroimage: /assets/images/focusgroup.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -40,16 +40,46 @@ google-analytics:
 # Disqus
 disqus-shortname:
 
-# Name of the Author
-author-name: QualitativeDataRepository
-# URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
-# 60 Words About the Author
-project-about: The "Teaching with Qualitative Data" project is a cross-disciplinary pilot initiative examines the pedagogical practice, and effects on learning, of using shared research data to teach qualitative analytic methods at the graduate level. Aiming for cross-field impact on qualitative methods instruction, the  project activities include observing classroom instruction, surveying students, interviewing instructors and students, and assessing course materials.
+organization-name: Qualitative Data Repository
+organization-image: /assets/images/qdr-logo.png
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://qdr.syr.edu
+organization-url: https://qdr.syr.edu
+# Name of the Author
+author1-name: Diana Kapiszewski
+# URL for the Image of the Author
+author1-image: /assets/images/kapiszewski-diana.png
 
-site-about: This site is maintained by the Qualitative Data Repository (QDR). QDR curates, stores, preserves, publishes, and enables the download of digital data generated through qualitative and multi-method research in the social sciences. s
+author1-about: >-
+  <strong>Diana Kapiszewski</strong> is Provost’s Distinguished Associate Professor of Government at Georgetown University. She studies law and legal institutions in Latin America, and qualitative research methods. Her book <em>High Courts and Economic Governance in Argentina and Brazil</em> (Cambridge, 2012) received the APSA Law and Courts Section's C. Herman Pritchett Award. She has co-edited <em>Consequential Courts: Judicial Roles in Global Perspective</em> (Cambridge, 2013), <em>Beyond High Courts: The Justice Complex in Latin America</em> (Notre Dame, 2019). In the area of research methods, Kapiszewski, co-authored <em>Field Research in Political Science: Practices and Principles</em> (Cambridge, 2015), serves as Director of Research for the Qualitative Data Repository and co-edits Cambridge's “Methods for Social Inquiry” book series.
+
+# Name of the Author
+author2-name: Sebastian Karcher
+# URL for the Image of the Author
+author2-image: /assets/images/karcher-sebastian.jpg
+
+author2-about: >-
+  <strong>Sebastian Karcher</strong> is the Associate Director of the Qualitative Data Repository and Research Assistant Professor of Political Science at Syracuse University. His main interests are in research transparency, management and curation of qualitative data, and the integration of technology into scholarly workflows. He is an active contributor to several scholarly open source projects such as Zotero and the Citation Style Language, and has taught widely on digital technology and data management. He has published in both social science journals such as <em>International Studies Quarterly</em> and <em>Socio-Economic Review</em> and information science journals such as <em>Nature Scientific Data</em> and <em>Data Science Journal</em>.
+
+# Name of the Author
+author3-name: Jessica Lester
+# URL for the Image of the Author
+author3-image: /assets/images/lester-jessica.jpg
+author3-about: >-
+  <strong>Jessica Nina Lester</strong> is an Associate Professor of Inquiry Methodology (Qualitative Research) in the School of Education at Indiana University, Bloomington. Dr. Lester has published over 80 peer-reviewed journal articles, as well as numerous books and book chapters focused on discourse and conversation analysis, disability studies, and more general concerns related to qualitative research. She is a co-author of the first edition of Digital Tools for Qualitative Research, published with SAGE.  In 2014, Dr. Lester received AERA's Division D's Early Career Award in Measurement and Research Methodology (Qualitative Methodology) and has also won several teaching awards at Indiana University. She has most recently published in journals such as <em>Qualitative Inquiry</em>, <em>Qualitative Research</em>, and <em>Discourse Studies</em>.
+
+# 60 Words About the Author
+project-about: This project examines the pedagogical practices and effects on learning of using data to teach qualitative analytic methods at the graduate level in the social sciences and beyond. Our research entails a broad survey of methods instructors in multiple disciplines, observing classroom instruction, surveying students, interviewing instructors and students, and assessing course materials. Aiming for cross-field impact on qualitative methods instruction, the project will develop training materials, guidelines, and lesson plans for integrating shared qualitative data into graduate research methods courses. Our ultimate goal is transforming the instruction of qualitative methods, and thereby the conduct, rigor, and contributions of qualitative research.
+
+
+site-about: This site is maintained by the Qualitative Data Repository (QDR).
+
+research1: In 2020, we surveyd instructors of graduate research methods courses in education, health, political science, and sociology at 250 US universities in the US regarding their teaching practices. Initial findings show that instructors often use qualitative data to teach research methods (typically their own rather than shared data) and that they believe teaching with data improves student learning. (with Beatriz Rey; funded by a Syracuse University CUSE grant)
+research2: A second funded study (started Fall 2021) examines and compares the teaching and learning of thematic analysis in two graduate-level qualitative methods courses in education research programs at different institutions using class observations and participant interviews. (with Darcy Furlong; funded by an Indian University SSRC grant)
+
+resource1: The Qualitative Data Repository has curated a <a href="https://qdr.syr.edu/guidance/teaching/data-for-teaching">list of data projects particularly well suited for teaching</a>.
+  
+resource2: The UK Data Archive has produced <a href="https://ukdataservice.ac.uk/learning-hub/teach-with-real-data/#teaching-resources-qualitative-data">resources for teaching with qualitative data</a> it archives.
+
 # SASS
 sass:
   sass_dir: _sass
