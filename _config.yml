@@ -11,7 +11,7 @@ title: Teaching with Qualitative Data
 # Description of the Site
 description: Bringing Qualitative Data to the Methods Classroom
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/meta.png
 # Keywords of the Site
 site-keywords: academic, qualitative research, data
 # URL for the Image of custom Favicon
@@ -26,19 +26,13 @@ email: qdr@syr.edu
 facebook_username:
 twitter_username: qdrepository
 instagram_username:
-linkedin_username:
 github_username:  QualitativeDataRepository
 youtube_channel_id:
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+
 
 # Google Analytics
 google-analytics:
 
-# Disqus
-disqus-shortname:
 
 organization-name: Qualitative Data Repository
 organization-image: /assets/images/qdr-logo.png
@@ -73,8 +67,8 @@ project-about: This project examines the pedagogical practices and effects on le
 
 site-about: This site is maintained by the Qualitative Data Repository (QDR).
 
-research1: In 2020, we surveyd instructors of graduate research methods courses in education, health, political science, and sociology at 250 US universities in the US regarding their teaching practices. Initial findings show that instructors often use qualitative data to teach research methods (typically their own rather than shared data) and that they believe teaching with data improves student learning. (with Beatriz Rey; funded by a Syracuse University CUSE grant)
-research2: A second funded study (started Fall 2021) examines and compares the teaching and learning of thematic analysis in two graduate-level qualitative methods courses in education research programs at different institutions using class observations and participant interviews. (with Darcy Furlong; funded by an Indian University SSRC grant)
+research1: In 2020, we surveyed instructors of graduate research methods courses in education, health, political science, and sociology at 250 US universities regarding their teaching practices. Initial findings show that instructors often use qualitative data to teach research methods (typically their own rather than shared data) and that they believe teaching with data improves student learning. (with Beatriz Rey; funded by a Syracuse University CUSE grant)
+research2: A second funded study (started Fall 2021) examines and compares the teaching and learning of thematic analysis in two graduate-level qualitative methods courses in education research programs at different institutions using class observations and participant interviews. (with Darcy Furlong; funded by an Indiana University SSRC grant)
 
 resource1: The Qualitative Data Repository has curated a <a href="https://qdr.syr.edu/guidance/teaching/data-for-teaching">list of data projects particularly well suited for teaching</a>.
   
