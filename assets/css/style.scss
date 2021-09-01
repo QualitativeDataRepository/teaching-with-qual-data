@@ -37,7 +37,9 @@ a.navbar-item.is-active {
     border-color: grey;
 }
 
-
+li a {
+  color: #1a58bb !important;
+}
 #hero {
     background: rgb(0, 0, 0);
     background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
@@ -57,7 +59,7 @@ a.navbar-item.is-active {
         bottom: 0px;
         left: 0px;
         position: absolute;
-        opacity: 0.37;
+        opacity: 0.32;
         content: "";
     }
 }
